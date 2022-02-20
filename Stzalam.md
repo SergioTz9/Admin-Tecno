@@ -1,3 +1,5 @@
+https://github.com/SergioTz9/Admin-Tecno
+
 ### 1. Describa los tipos de datos que las empresas analizan en este caso. ###
 *Tipos recolectados impulsan el marketing de uno a uno que crea mensajes personales con base en preferencias individuales cuando las personas accedan a sitio web e interactual con ellos, el desarrollo de software.
 
